@@ -21,8 +21,11 @@ You also need to install and run dependencies with npm:
 
 ### In Action
 
-eklenecek!!!!!!!
+https://github.com/smtttlck/food-ordering-app/assets/61507892/81b62ebc-e56a-48e7-a451-c45d3a4f2c31
 
 ### Screenshots
 
-eklenecek!!!!!!!
+![img1](https://github.com/smtttlck/food-ordering-app/assets/61507892/9260c214-1525-48eb-835c-87d29a7b178c)
+![img2](https://github.com/smtttlck/food-ordering-app/assets/61507892/22cc818f-8983-4f6c-948c-fd89092eb8cb)
+![img3](https://github.com/smtttlck/food-ordering-app/assets/61507892/50327e62-c7b2-40cf-9ba8-9dacd1f3e8fc)
+![img4](https://github.com/smtttlck/food-ordering-app/assets/61507892/3770c43b-e6e6-478c-b4fd-d810ecb10e8f)
