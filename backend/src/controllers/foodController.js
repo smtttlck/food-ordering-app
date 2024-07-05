@@ -58,7 +58,7 @@ const updateFood = async (req, res) => {
         req.body.imageUrl = req.file.path
     }
     else        
-        req.body.imageUrl = req.file ? req.file.path : food.imageUrl;
+        req.body.imageUrl = food.imageUrl;
     
     const updatedFood = await Food.findByIdAndUpdate( // update
         req.params.id,

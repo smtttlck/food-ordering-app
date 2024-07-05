@@ -35,7 +35,7 @@ const upload = multer({
         if (file.mimetype.startsWith('image/')) {
             cb(null, true);
         } else {
-            cb(new Error('Sadece resim dosyaları kabul edilir.'));
+            cb(new Error('Only image files are accepted.'));
         }
     }
 })

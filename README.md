@@ -18,11 +18,9 @@ The created project and its dependencies are:
 After importing the database, you need to install and run the dependencies with npm:
 
     cd .\frontend\
-	npm install 
-	npm run dev
+	npm install && npm run dev	
     cd ..\backend\
-	npm install 
-	npm run dev
+	npm install && npm run dev
 
 ### In Action
 
